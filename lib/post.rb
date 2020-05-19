@@ -3,6 +3,6 @@ class Post
 
   def initialize
     @title = self
+    binding.pry
   end
-  binding.pry
 end
