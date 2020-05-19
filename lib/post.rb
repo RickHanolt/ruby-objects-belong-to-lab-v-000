@@ -4,4 +4,5 @@ class Post
   def initialize
     @title = self
   end
+  binding.pry
 end
